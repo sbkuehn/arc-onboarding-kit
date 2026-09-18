@@ -1,4 +1,4 @@
-# arc-onboarding-kit
+# Azure Arc Onboarding Kit
 
 Companion repo for the Cloudy Musings post **When Azure Arc Says 400 Bad Request, the Network Is Probably Fine**.
 
