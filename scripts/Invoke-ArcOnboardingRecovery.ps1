@@ -55,6 +55,8 @@
         -ResourceGroup "rg-arc-servers" -Location "eastus2"
 
 .NOTES
+    Author: Shannon Eldridge-Kuehn
+    Created: September 18, 2026
     Run from an elevated PowerShell session on the target server.
     Requires PowerShell 5.1 or later.
 #>
