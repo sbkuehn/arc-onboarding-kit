@@ -14,6 +14,10 @@
     Optional Azure region short name (e.g. eastus2). Adds the regional HIS
     and guest configuration endpoints to the test list.
 
+.NOTES
+    Author: Shannon Eldridge-Kuehn
+    Created: September 2026
+
 .EXAMPLE
     .\Test-ArcConnectivity.ps1 -Region eastus2
 #>
