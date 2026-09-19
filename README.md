@@ -1,7 +1,8 @@
 # Azure Arc Onboarding Kit
 
 Author: Shannon Eldridge-Kuehn
-(c): September 18, 2026
+
+Copywright: September 18, 2026
 
 Companion repo for the Cloudy Musings post [**When Azure Arc Says 400 Bad Request, the Network Is Probably Fine**](https://www.shankuehn.io/post/when-azure-arc-says-400-bad-request-the-network-is-probably-fine).
 
