@@ -1,6 +1,9 @@
 # Azure Arc Onboarding Kit
 
-Companion repo for the Cloudy Musings post **When Azure Arc Says 400 Bad Request, the Network Is Probably Fine**.
+Author: Shannon Eldridge-Kuehn
+(c): September 18, 2026
+
+Companion repo for the Cloudy Musings post [**When Azure Arc Says 400 Bad Request, the Network Is Probably Fine**](https://www.shankuehn.io/post/when-azure-arc-says-400-bad-request-the-network-is-probably-fine).
 
 When the portal-generated Azure Arc onboarding script fails on a Windows Server, these scripts prove each dependency one layer at a time instead of guessing at the firewall.
 
